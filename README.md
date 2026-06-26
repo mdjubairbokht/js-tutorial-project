@@ -2,7 +2,8 @@
 A structured collection of JavaScript and TypeScript exercises covering fundamentals, intermediate concepts, and practical examples.
 This repository is designed to help you build a strong foundation in modern JavaScript and TypeScript through hands‑on learning.
 
-📂 Project Structure
+📂 Project Structure 
+
 Each folder represents a topic from the YouTube tutorial you followed:
 
 1BasicExamples — Introductory JS syntax and console output
