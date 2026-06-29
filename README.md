@@ -4,7 +4,7 @@ This repository is designed to help you build a strong foundation in modern Java
 
 📂 Project Structure 
 
-Each folder represents a topic from the YouTube tutorial you followed:
+#Each folder represents a topic from the YouTube tutorial you followed:
 
 1BasicExamples — Introductory JS syntax and console output
 
@@ -31,3 +31,4 @@ Each folder represents a topic from the YouTube tutorial you followed:
 12Npm — Using npm packages
 
 13Typescript — Generics, interfaces, typing basics
+
