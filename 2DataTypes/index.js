@@ -1,7 +1,7 @@
 // Primitive data types:
 
 // String
-const someString = 'Hello'
+const someString = 'Hello Jhon'
 
 // number
 const someNumber = 3.14
@@ -26,8 +26,8 @@ const someSymbol = Symbol("foo")
 // Object
 const employee = {
     name: 'John',
-    position: 'tester',
-    salary: 3000
+    position: 'qa tester',
+    salary: 5000
 }
 
 
