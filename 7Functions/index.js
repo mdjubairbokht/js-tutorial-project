@@ -1,5 +1,6 @@
 function getGreet(name) {
-  return "Hello, " + name + "!";
+  return "Hello, " + name + "!"; 
+  
 }
 
 function greet(name) {
@@ -8,13 +9,15 @@ function greet(name) {
 
 function invoke(){
     const name = 'John'
-    greet(name)
+    greet(name) 
+  
 }
 
-invoke()
+invoke() 
 
 const add = (a, b) => a + b;
 add(5,6)
+
 
 const numbers = [1,2,3]
 
