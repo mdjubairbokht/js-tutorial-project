@@ -15,5 +15,4 @@ const longText = ` This a long text with line breaks
     This is the second line`
 
 
-const toUpperCase = fullName.toUpperCase()
-console.log(toUpperCase)
+
