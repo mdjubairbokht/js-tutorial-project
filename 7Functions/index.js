@@ -8,7 +8,7 @@ function greet(name) {
 }
 
 function invoke(){
-    const name = 'John'
+    const name = 'Zohn'
     greet(name) 
   
 }
