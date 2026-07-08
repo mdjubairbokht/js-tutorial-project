@@ -1,8 +1,8 @@
-const firstName = 'John'
+const firstName = 'Zohn'
 const lastName = "Smith"
 
 // concatenation
-const fullName = firstName + ' ' + lastName
+const fullName = firstName + ' ' + lastName 
 
 // template literal, template string
 const print = `The full name is ${firstName} ${lastName}`
