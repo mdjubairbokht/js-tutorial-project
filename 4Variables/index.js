@@ -6,7 +6,7 @@ let b = 'b';
 
 // cannot be reassigned
 const employee = {
-    name: 'John'
+    name: 'Zohn'
 }
 
 b = 5;
