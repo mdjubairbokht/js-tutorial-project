@@ -9,7 +9,11 @@ async function makeGetRequest() {
 
 async function makePostRequest() {
     const response = await fetch(url, {
-        ..
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ numbers: 5 })
+
+            
     })
     const responseBody = await response.json();
     console.log('POST status:', response.status);
