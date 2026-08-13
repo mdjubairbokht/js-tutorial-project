@@ -9,7 +9,7 @@ const employee = {
     name: 'Zohn'
 }
 
-b = 5;
+b = 9;
 
 
 // TypeError: Assignment to constant variable.
