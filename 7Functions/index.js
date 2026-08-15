@@ -4,7 +4,7 @@ function getGreet(name) {
 }
 
 function greet(name) {
-    console.log("Hello, " + name + "!")
+    console.log("hello, " + name + "!")
 }
 
 function invoke(){
