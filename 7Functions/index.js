@@ -1,5 +1,5 @@
 function getGreet(name) {
-  return "Hello, " + name + "!"; 
+  return "hello, " + name + "!"; 
   
 }
 
@@ -19,7 +19,7 @@ const add = (a, b) => a + b;
 add(5,6)
 
 
-const numbers = [1,2,3]
+const numbers = [1,2,3,4]
 
 numbers.forEach((arg)=>{
     console.log(arg)
