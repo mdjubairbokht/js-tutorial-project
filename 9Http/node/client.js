@@ -4,6 +4,7 @@ const url = 'http://127.0.0.1:3000/';
 async function makeGetRequest() {
         const res = await fetch(url);
         const text = await res.text();
+        console.log(text) 
         
 }
 
