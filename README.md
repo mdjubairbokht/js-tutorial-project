@@ -4,7 +4,7 @@ This repository showcases my structured approach to mastering JavaScript and Typ
 ability to write, test, run and understand modern JS/TS. Each section highlights a key skill. I have developed as part of my growth as a software qa engineer.
 
 
-📂 Project Structure 
+📂 Project Structure : 
 
 **Each folder represents a core concept in JavaScript and TypeScript, organized to reflect a structured learning path and hands‑on practice:**
 
@@ -34,4 +34,5 @@ ability to write, test, run and understand modern JS/TS. Each section highlights
 12Npm — Using npm packages and managing dependencies
 
 13Typescript — TypeScript basics, interfaces, generics, and type safety
+
 
