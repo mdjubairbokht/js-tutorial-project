@@ -5,6 +5,9 @@ function greetNames(){
      */
     
     const input = document.getElementById('namesInput').value
+
+       const names = input.split(' ')
+    
  
     
     const greetingsDiv = document.getElementById('greetings')
