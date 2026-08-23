@@ -5,12 +5,14 @@ const rl = readline.createInterface({
     output: process.stdout
 });
 
+
 rl.question('Who do you want to greet? - separated by space \n', (args)=>{
     const argsSplitted = splitArgs(args)
     argsSplitted.forEach(name => {
         console.log('Hi ' + name)
     });
     rl.close()
+    
 }) 
 
 
@@ -18,6 +20,7 @@ rl.question('Who do you want to greet? - separated by space \n', (args)=>{
  * 
  * @param {string} args 
  */
+
 
 
 function splitArgs(args){
