@@ -20,10 +20,6 @@ rl.question('Who do you want to greet? - separated by space \n', (args)=>{
  * 
  * @param {string} args 
  */
-
-
-
-function splitArgs(args){
-    const splittedArgs = args.split(' ')
-    return splittedArgs
 }
+
+
